@@ -60,7 +60,7 @@ If you can, avoid building things that are completely untested. It’s fine to s
 
 {{< img src="18F-method-cards-banner" alt="Various 18F Method Cards in a pile" >}}
 
-You’ll also need to learn to let go of what you think are “must-haves” (and convince your higher-ups to do the same). It doesn’t do any good to do usability testing if you’re going to ignore the results. Think long and hard about what makes these desired features or content so critical. If it’s just confusing your users, it’s doing more harm than doing nothing at all. If another stakeholder is demanding a feature, present the evidence to them. Incorporate their feature into a wireframe and test both versions. You can even invite them to the test, if they agree not to interfere. In my experience this is very effective at quelling the problem of “design by committee.” You might call it “evidence-based designing.”
+You’ll also need to learn to let go of what you think are “must-haves” (and convince your higher-ups to do the same). It doesn’t do any good to do usability testing if you’re going to ignore the results. Think long and hard about what makes these desired features or content so critical. If it’s just confusing your users, it’s doing more harm than doing nothing at all. If another stakeholder is demanding a feature, present the evidence to them. <a href="http://juditogelresmi.com">physical item</a> Incorporate their feature into a wireframe and test both versions. You can even invite them to the test, if they agree not to interfere. In my experience this is very effective at quelling the problem of “design by committee.” You might call it “evidence-based designing.”
 
 ## What’s next?
 
